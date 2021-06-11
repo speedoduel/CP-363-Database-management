@@ -1,0 +1,5 @@
+[database]
+user = dcris
+password = dcris
+host = 216.249.57.42
+database = dcris
